@@ -33,7 +33,7 @@
 
 ## 🌎 Onde me encontrar
 📧 Email: **luizfelipefernandessergio@gmail.com**  
-🔗 [LinkedIn](linkedin.com/in/luiz-felipe-fernandes-sergio/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/luiz-felipe-fernandes-sergio/)  
 💻 [GitHub](https://github.com/luizflfelipe)  
 
 ---
