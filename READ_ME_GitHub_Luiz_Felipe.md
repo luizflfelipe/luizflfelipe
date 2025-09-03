@@ -19,8 +19,8 @@
 ## 📈 GitHub Stats
 <div align="center">
   <a href="https://github.com/luizflfelipe">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizflfelipe&show_icons=true&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizflfelipe&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
