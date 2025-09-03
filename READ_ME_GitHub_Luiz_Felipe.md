@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Luiz Felipe!  
 
-💻 Estudante e entusiasta de **programação**  
+💻 Estudante e Apaixonado por **tecnologia**  
 📚 Atualmente focado em **Java** e no desenvolvimento de projetos para portfólio  
-🎯 Objetivo: Construir uma carreira sólida na área de **tecnologia**  
+🎯 Objetivo: Construir uma carreira sólida na área de **programação**  
 
 ---
 
