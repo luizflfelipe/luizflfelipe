@@ -1,0 +1,47 @@
+<svg width="900" height="390" viewBox="0 0 900 390" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated cybersecurity terminal">
+<style>
+  .bg { fill: #0d1117; }
+  .frame { fill: none; stroke: #30363d; stroke-width: 2; }
+  .txt { fill: #c9d1d9; font: 18px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .muted { fill: #8b949e; }
+  .accent { fill: #58a6ff; }
+  .ok { fill: #3fb950; }
+  .cursor { fill: #c9d1d9; animation: blink 1s steps(1) infinite; }
+  .role { opacity: 0; animation: roles 8s linear infinite; }
+  .r2 { animation-delay: 2s; }
+  .r3 { animation-delay: 4s; }
+  .r4 { animation-delay: 6s; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes roles {
+    0%, 20% { opacity: 1; }
+    25%, 100% { opacity: 0; }
+  }
+</style>
+<rect class="bg" width="900" height="390" rx="14"/>
+<rect class="frame" x="1" y="1" width="898" height="388" rx="14"/>
+<circle cx="24" cy="22" r="5" fill="#8b949e"/><circle cx="42" cy="22" r="5" fill="#8b949e"/><circle cx="60" cy="22" r="5" fill="#8b949e"/>
+<text class="txt muted" x="82" y="28">terminal — luiz@felipe</text>
+
+<!-- Compact Linux-inspired ASCII mark -->
+<text class="txt" xml:space="preserve" x="55" y="90">
+  <tspan x="55" dy="0">       .--.</tspan>
+  <tspan x="55" dy="23">      |o_o |</tspan>
+  <tspan x="55" dy="23">      |:_/ |</tspan>
+  <tspan x="55" dy="23">     //   \ \</tspan>
+  <tspan x="55" dy="23">    (|     | )</tspan>
+  <tspan x="55" dy="23">   /'\_   _/`\</tspan>
+  <tspan x="55" dy="23">   \___)=(___/</tspan>
+</text>
+
+<text class="txt" x="330" y="90"><tspan class="ok">luiz@felipe</tspan><tspan class="muted">:~$ whoami</tspan></text>
+<text class="txt accent role" x="330" y="135">Cybersecurity</text>
+<text class="txt accent role r2" x="330" y="135">IAM</text>
+<text class="txt accent role r3" x="330" y="135">Pentest</text>
+<text class="txt accent role r4" x="330" y="135">Security Engineering</text>
+
+<text class="txt" x="330" y="185"><tspan class="ok">luiz@felipe</tspan><tspan class="muted">:~$ cat focus.txt</tspan></text>
+<text class="txt" x="330" y="225">Active Directory  •  Linux  •  Security</text>
+<text class="txt" x="330" y="260">TryHackMe  •  CTFs  •  IAM</text>
+<text class="txt" x="330" y="310"><tspan class="ok">luiz@felipe</tspan><tspan class="muted">:~$ </tspan></text>
+<rect class="cursor" x="486" y="293" width="11" height="22"/>
+</svg>
