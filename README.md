@@ -1,37 +1,40 @@
-# `luiz@felipe`
+<p align="center">
+  <img src="assets/terminal.svg" width="900" alt="luiz@felipe animated terminal" />
+</p>
 
-```text
-
-
-                   ...,..
-                    ......
-               ,::;;;rAs,
-             ;X3H#99#GM5X.
-            :srii2SGAiirX:
-           AA55255GM552552:
-           A3MS#H3GhhS#GhM:
-           .;A3335553333r:
-             i525GSG3A5r
-             ir5hHHM32r;
-          :;iAr;sA2AsiXXr:
-     .;Xh#&3sA2siiiis252B&GM5s:
-  :sh#&@@@@SXA22AAA253h9@@@@@&BS3s:
-sM9&&@@&&&&@9Hh5525hG9&@&&&&&&&@@@9G
-99B&B&&B&&&&&@&BBB&&@@@@&&@&&&BBB&@B
+```console
+$ whoami
+Cybersecurity | IAM & Pentest
 ```
 
-```text
-luiz@felipe
-────────────────────────────────────────────
-Role        Cybersecurity | IAM & Pentest
-Education   Cybersecurity @ FIAP
-OS          Linux • Windows
-Identity    Active Directory • IAM
-Security    Nmap • Wireshark • Metasploit
-            CrowdStrike • Zscaler
-Shell       Bash • PowerShell
-Labs        TryHackMe • CTFs
-Learning    Security Engineering • Pentest
-Languages   Portuguese [Native]
-            English [Basic]
+### `$ cat profile.conf`
+
+```ini
+Education = Cybersecurity @ FIAP
+Systems   = Linux, Windows
+Identity  = Active Directory, IAM
+Security  = Nmap, Wireshark, Metasploit, CrowdStrike, Zscaler
+Shell     = Bash, PowerShell
 ```
+
+### `$ cat current.log`
+
+```text
+[+] TryHackMe
+[+] CTFs
+[~] Pentest
+[~] IAM
+[~] Security Engineering
+```
+
+<!--
+Add only real repositories when you want to feature them:
+
+### `$ ls ~/projects`
+
+- project-name/ — short explanation
+-->
+
+---
+
+<sub>Learning security by building, testing and documenting.</sub>
