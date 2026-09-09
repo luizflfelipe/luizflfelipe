@@ -77,14 +77,16 @@ const luiz = {
 
 ---
 
-## 📊 Coding Stats
+## 📊 Current Focus
 
-<!-- Replace luizflfelipe with your real GitHub username. -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizflfelipe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFEA&icon_color=FF00FF" alt="Luiz Felipe GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizflfelipe&theme=aura&hide_border=true&layout=compact" width="42%" alt="Most used languages" />
-</div>
+```text
+[+] Cybersecurity
+[+] Identity & Access Management
+[+] Linux & Active Directory
+[~] Pentest
+[~] TryHackMe & CTFs
+[~] Security Engineering
+```
 
 ---
 
