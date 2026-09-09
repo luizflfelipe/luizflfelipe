@@ -79,20 +79,18 @@ const luiz = {
 
 ## 📊 Coding Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your real GitHub username. -->
+<!-- Replace luizflfelipe with your real GitHub username. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFEA&icon_color=FF00FF" alt="Luiz Felipe GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luizflfelipe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFEA&icon_color=FF00FF" alt="Luiz Felipe GitHub stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=true&layout=compact" width="42%" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizflfelipe&theme=aura&hide_border=true&layout=compact" width="42%" alt="Most used languages" />
 </div>
 
 ---
 
 ## 🌐 Connect with me
 
-<!-- Replace the placeholders below with your real profile URLs. -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFEA)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFEA)](https://www.linkedin.com/in/luiz-felipe-fernandes-sergio/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/luizflfelipe)
 
 ---
