@@ -22,7 +22,7 @@ I enjoy turning repetitive or manual processes into structured, documented and s
 
 ```yaml
 name: Luiz Felipe Fernandes Sergio
-location: São Paulo, Brazil
+location: Brazil
 
 education:
   - Segurança Cibernética @ FIAP
